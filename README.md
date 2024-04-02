@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### My tech stack
-[!(https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]
+[![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]
 <!--
 **Konst-Pav/Konst-Pav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
